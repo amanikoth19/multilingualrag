@@ -67,11 +67,11 @@ streamlit run app.py
 ## Project Structure
 
 multilingual-doc-qa/
-├── app.py            # Streamlit UI
-├── ingest.py         # Document loading, chunking, embedding
-├── rag_chain.py      # RAG pipeline and LLM chain
-├── requirements.txt  # Dependencies
-└── README.md
+* app.py            # Streamlit UI  
+* ingest.py         # Document loading, chunking, embedding  
+* rag_chain.py      # RAG pipeline and LLM chain  
+* requirements.txt  # Dependencies  
+* README.md
 
 ## Example
 - Upload an English government document
